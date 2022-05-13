@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="app_primary">#37474f</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_300">#b0b0b0</color>
+    <color name="A_700">#2962FF</color>
+    <color name="black_dark">#535658</color>
+    <color name="lightgray">#ededed</color>
+    <color name="landmark_color">#64dd17</color>
+    <color name="grey_login">#eeeeee</color>
+</resources>
